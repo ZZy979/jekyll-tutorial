@@ -1,4 +1,7 @@
 title: "Jekyll Tutorial Demo"
+domain: ZZy979.github.io
+url: https://zzy979.github.io
+baseurl: /jekyll-tutorial
 
 collections:
   authors:
