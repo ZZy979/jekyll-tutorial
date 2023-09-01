@@ -10,3 +10,5 @@ group :jekyll_plugins do
   gem 'jekyll-seo-tag'
   gem "github-pages", "~> 228"
 end
+
+gem "webrick", "~> 1.8"
